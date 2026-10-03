@@ -1,4 +1,4 @@
-# @mrbacco
+# mrbacco
 
 building AI/ML systems that *probably* work (we'll find out in production)
 
