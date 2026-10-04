@@ -6,4 +6,4 @@ building AI/ML systems that *probably* work (we'll find out in production)
 - 📊 data → insights → 💰 ( ... or at least a good story)
 - 🚀 shipping fast, breaking much faster
 - 🤖 training models while my GPU cries
-- 🧠 ADHD brain: 129 tabs open, 6 ideas at once, 1 missed deadline
+- 🧠 ADHD brain: 129 tabs open, 6 ideas at once, 1 deadline ... missed
